@@ -1,8 +1,24 @@
-.bgb{
+.clb{
     color:black;
 
 }
-.bgb:hover{
+.clb:hover{
     color:#00adbb;
     
+}
+.bgs{
+    height: 50px;
+}
+.bgs1{
+    height: 100px;
+}
+.bgs2{
+    height: 200px;
+    width:100%;
+}
+.ff{
+    font-family: 'Jost', sans-serif;
+}
+*{
+    scroll-behavior: smooth;
 }
